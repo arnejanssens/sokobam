@@ -16,6 +16,7 @@ public class HelloWorld {
         System.out.println("love you to (no homo)");
         System.out.println("Heb je een grote?");
         System.out.println("droog in de kakker");
+        System.out.println("wil je mijn grote meneer ook is pullen vuile homoslet");
         
     }
 }
